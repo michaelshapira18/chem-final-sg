@@ -1,0 +1,274 @@
+# Image Manifest
+
+## ch01_basic_concepts  (34 images)
+- p10_i0.jpeg
+- p11_i0.png
+- p11_i1.jpeg
+- p13_i0.jpeg
+- p14_i0.png
+- p15_i0.jpeg
+- p16_i0.jpeg
+- p17_i0.jpeg
+- p18_i0.jpeg
+- p18_i1.jpeg
+- p18_i2.jpeg
+- p18_i3.jpeg
+- p19_i0.jpeg
+- p20_i0.jpeg
+- p20_i1.png
+- p21_i0.jpeg
+- p2_i0.jpeg
+- p2_i2.jpeg
+- p2_i3.jpeg
+- p2_i4.jpeg
+- p2_i5.jpeg
+- p2_i6.jpeg
+- p3_i0.jpeg
+- p3_i1.jpeg
+- p3_i2.jpeg
+- p4_i0.jpeg
+- p5_i0.jpeg
+- p5_i1.jpeg
+- p7_i0.png
+- p7_i1.jpeg
+- p7_i2.jpeg
+- p9_i0.jpeg
+- p9_i1.jpeg
+- p9_i2.jpeg
+
+## ch02_atoms_molecules_ions  (40 images)
+- p11_i1.jpeg
+- p12_i0.png
+- p14_i0.png
+- p14_i1.png
+- p15_i0.jpeg
+- p16_i0.jpeg
+- p16_i1.jpeg
+- p16_i2.png
+- p17_i0.jpeg
+- p18_i0.jpeg
+- p18_i1.png
+- p19_i0.jpeg
+- p20_i1.png
+- p24_i0.png
+- p27_i0.png
+- p27_i1.png
+- p2_i0.jpeg
+- p31_i0.jpeg
+- p33_i0.jpeg
+- p34_i0.jpeg
+- p35_i0.jpeg
+- p35_i2.jpeg
+- p36_i1.png
+- p36_i2.png
+- p36_i3.jpeg
+- p38_i1.png
+- p3_i0.png
+- p4_i0.png
+- p4_i1.png
+- p5_i0.jpeg
+- p6_i0.jpeg
+- p6_i1.png
+- p6_i2.jpeg
+- p6_i3.jpeg
+- p6_i4.jpeg
+- p6_i5.jpeg
+- p7_i0.png
+- p7_i1.jpeg
+- p8_i0.png
+- p9_i0.png
+
+## ch03_chemical_reactions  (10 images)
+- p10_i0.jpeg
+- p10_i1.jpeg
+- p11_i0.png
+- p16_i0.jpeg
+- p21_i0.png
+- p22_i0.png
+- p23_i0.png
+- p23_i1.png
+- p23_i2.png
+- p5_i0.jpeg
+
+## ch04_stoichiometry  (16 images)
+- p17_i0.jpeg
+- p18_i0.jpeg
+- p19_i0.png
+- p1_i0.jpeg
+- p1_i2.jpeg
+- p20_i0.png
+- p2_i0.jpeg
+- p3_i0.jpeg
+- p23_i0.jpeg
+- p24_i1.jpeg
+- p24_i2.png
+- p25_i0.jpeg
+- p32_i0.jpeg
+- p32_i1.jpeg
+- p33_i0.png
+- p8_i0.png
+
+## ch05_thermochemistry  (14 images)
+- p10_i0.jpeg
+- p11_i0.jpeg
+- p16_i0.jpeg
+- p18_i0.jpeg
+- p23_i0.jpeg
+- p27_i0.png
+- p28_i0.png
+- p34_i0.jpeg
+- p38_i0.png
+- p38_i1.jpeg
+- p39_i0.jpeg
+- p41_i0.jpeg
+- p9_i0.jpeg
+- p9_i1.jpeg
+
+## ch06_atom_structure  (30 images)
+- p13_i0.png
+- p13_i1.jpeg
+- p14_i0.jpeg
+- p14_i1.jpeg
+- p15_i0.jpeg
+- p15_i1.png
+- p16_i0.png
+- p17_i0.jpeg
+- p18_i0.jpeg
+- p19_i0.png
+- p21_i0.png
+- p22_i0.png
+- p24_i0.jpeg
+- p25_i0.jpeg
+- p26_i0.jpeg
+- p2_i0.jpeg
+- p30_i0.jpeg
+- p31_i0.png
+- p31_i1.png
+- p31_i3.png
+- p31_i4.png
+- p34_i0.png
+- p35_i0.jpeg
+- p37_i0.png
+- p5_i0.png
+- p7_i0.png
+- p8_i0.png
+- p8_i1.png
+- p8_i2.png
+- p9_i0.jpeg
+
+## ch07_periodic_properties  (9 images)
+- p10_i0.jpeg
+- p10_i1.png
+- p10_i2.jpeg
+- p14_i0.png
+- p3_i0.jpeg
+- p6_i0.png
+- p8_i1.png
+- p9_i0.png
+- p9_i1.jpeg
+
+## ch08_bonding_lewis  (34 images)
+- p13_i0.png
+- p17_i0.jpeg
+- p18_i0.jpeg
+- p22_i0.jpeg
+- p23_i0.jpeg
+- p24_i0.jpeg
+- p25_i0.jpeg
+- p26_i0.jpeg
+- p27_i2.jpeg
+- p28_i0.jpeg
+- p30_i0.jpeg
+- p31_i0.png
+- p35_i0.png
+- p38_i0.jpeg
+- p41_i0.png
+- p42_i0.png
+- p43_i0.png
+- p43_i1.png
+- p44_i0.jpeg
+- p45_i0.png
+- p45_i1.png
+- p46_i0.jpeg
+- p47_i0.jpeg
+- p48_i0.jpeg
+- p4_i1.png
+- p51_i1.png
+- p52_i0.jpeg
+- p52_i2.jpeg
+- p54_i0.png
+- p55_i0.png
+- p55_i2.png
+- p55_i4.png
+- p55_i5.png
+- p58_i0.png
+
+## ch09_bonding_theories  (27 images)
+- p10_i2.jpeg
+- p11_i0.jpeg
+- p12_i0.jpeg
+- p15_i2.jpeg
+- p17_i0.jpeg
+- p19_i0.jpeg
+- p20_i0.jpeg
+- p22_i0.jpeg
+- p24_i0.png
+- p26_i0.jpeg
+- p26_i1.jpeg
+- p34_i0.png
+- p34_i1.png
+- p34_i2.png
+- p34_i3.jpeg
+- p34_i4.jpeg
+- p34_i9.png
+- p35_i0.jpeg
+- p35_i1.jpeg
+- p36_i0.jpeg
+- p37_i0.jpeg
+- p45_i0.jpeg
+- p47_i0.jpeg
+- p4_i0.jpeg
+- p50_i0.png
+- image1.png
+- image2.png
+
+## ch10_gases  (12 images)
+- p10_i1.png
+- p12_i0.png
+- p14_i0.jpeg
+- p16_i0.jpeg
+- p17_i0.png
+- p19_i0.jpeg
+- p19_i1.jpeg
+- p2_i0.jpeg
+- p4_i0.jpeg
+- p6_i0.jpeg
+- p6_i1.png
+- p8_i0.png
+
+## ch11_imf_phases  (22 images)
+- p10_i0.jpeg
+- p11_i0.jpeg
+- p12_i0.jpeg
+- p13_i0.jpeg
+- p14_i0.jpeg
+- p15_i0.jpeg
+- p17_i0.jpeg
+- p18_i0.jpeg
+- p19_i0.jpeg
+- p20_i0.jpeg
+- p21_i0.jpeg
+- p22_i0.jpeg
+- p23_i0.jpeg
+- p25_i0.jpeg
+- p26_i0.jpeg
+- p2_i0.jpeg
+- p3_i0.jpeg
+- p4_i0.jpeg
+- p5_i0.jpeg
+- p6_i0.jpeg
+- p8_i0.jpeg
+- p9_i0.jpeg
+
+
+Total placed: 248
